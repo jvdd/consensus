@@ -1,0 +1,6 @@
+numpy~=1.18.5
+#pandas~=1.1.1
+#sklearn~=0.0
+scipy~=1.5.2
+statsmodels~=0.12.0
+krippendorff~=0.3.2
